@@ -49,7 +49,7 @@
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-md-6" data-aos="fade-right">
-                    <h1 class="display-4 fw-bold">Sewa Bus Jogjakarta</h1>
+                    <h1 class="display-4 fw-bold">Sewa Bus Jogjaaaa</h1>
                     <p class="lead">Layanan transportasi bus premium untuk perjalanan Anda yang aman dan nyaman di Yogyakarta dan sekitarnya.</p>
                     <a href="#contact" class="btn btn-primary btn-lg">Hubungi Kami</a>
                 </div>
